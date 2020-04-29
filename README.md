@@ -3,9 +3,9 @@ Basic CRUD operations using Node js, Express js, and MongoDB Atlas
 
 # To Run project
 
-1- cd backend
-2- npm install
-3 - npm start / nodemon server.js
+1. cd backend
+2. npm install
+3. npm start / nodemon server.js
 
 # API
 
