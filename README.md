@@ -12,6 +12,8 @@ Basic CRUD operations using Node js, Express js, and MongoDB Atlas
 ## User api
 
 1.http://localhost:5000/users/
+2.http://localhost:5000/users/add
+ 
 
 ## Exercises api
 
